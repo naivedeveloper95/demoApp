@@ -1,6 +1,9 @@
 ![Node.js CI](https://github.com/naivedeveloper95/demoApp/workflows/Node.js%20CI/badge.svg?branch=master)
 
 # demoApp
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a8104ea42d5740569006b9662128099e)](https://app.codacy.com/manual/naivedeveloper95/demoApp?utm_source=github.com&utm_medium=referral&utm_content=naivedeveloper95/demoApp&utm_campaign=Badge_Grade_Dashboard)
+
 Its simple chat application using socket.io in javascipt :-)
 packages used:
 
