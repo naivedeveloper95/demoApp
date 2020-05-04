@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/naivedeveloper95/demoApp/workflows/Node.js%20CI/badge.svg?branch=master)
+
 # demoApp
 Its simple chat application using socket.io in javascipt :-)
 packages used:
